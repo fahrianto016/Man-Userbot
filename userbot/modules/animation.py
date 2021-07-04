@@ -495,7 +495,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`I LOVEE YOUUUU💘💓`")
     sleep(1)
-    await typew.edit("`Tapi Bo'ong`")
+    await typew.edit("`TOJENGA KODONG`")
 
 
 # Create by myself @localheart
@@ -561,7 +561,7 @@ async def typewriter(typew):
         "──▄▀█▄▄▄─────▄▀█▄▄▄\n"
         "▄▀──█▄▄──────█─█▄▄\n"
         "─▄▄▄▀──▀▄───▄▄▄▀──▀▄\n"
-        "─▀───────▀▀─▀───────▀▀\n`Awkwokwokwok..`"
+        "─▀───────▀▀─▀───────▀▀\n`YAKKODONG WKWK ..`"
     )
 
 
